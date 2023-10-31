@@ -1,0 +1,69 @@
+main.css
+h1 {
+    color: rgb(24, 144, 160);
+}
+
+seletor {
+    color:blueviolet
+}
+
+#economy h2 {
+    color: gold
+}
+
+* {
+    color:brown
+}
+
+body > header {
+    background-color: bisque;
+    padding: 16px 0;
+}
+
+header .container {
+    diplay: flex;
+}
+
+header li {
+    display: inline;
+}
+
+section {
+    padding: 16px 0;
+}
+
+section h2,
+.articles article {
+    margin-bottom: 16px;
+}
+
+.articles article h3 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#sports {
+    background-color: rgba(0, 255, 0, 0.1);
+}
+
+#sports .articles article a {
+    background-color: #009432
+}
+
+#economy {
+    background-color: #fffa65;
+}
+
+#entertaiment {
+    background-color: aqua;
+}
+
+#tecnology {
+    background-color: blue;
+}
+
+
+
+
+
+
